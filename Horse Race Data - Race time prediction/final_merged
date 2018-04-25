@@ -1,26 +1,26 @@
-,Final_Time,Final_Time_Hund,Horse Name,Firsts,Seconds,Starts,Thirds
-0,1:35.11,9511,Blame the Rider,1,0,6,1
-1,1:35.25,9525,Majestic Eagle,0,3,5,0
-2,1:35.39,9539,Sellwood,0,1,3,2
-3,1:35.39,9539,Cajun Treasure,0,0,1,0
-4,1:35.69,9569,Friendly Outthedor,0,1,5,0
-5,1:35.79,9579,Pointed,0,0,6,0
-6,1:36.25,9625,Dignitaire,0,0,4,1
-7,1:36.71,9671,Papa Joe,0,0,2,0
-8,1:34.19,9419,Tule Fog,2,1,7,1
-9,1:34.83,9483,Lymebyrd,2,4,16,1
-10,1:35.46,9546,Kings River King,1,0,7,3
-11,1:35.46,9546,California Journey,1,0,3,0
-12,1:35.54,9554,Raven Creek,1,4,9,2
-13,1:36.17,9617,Fast as Cass,1,1,5,0
-14,1:36.50,9650,Croissant,1,0,7,0
-15,1:39.73,9973,Lord Admiral,1,1,9,0
-16,1:33.86,9386,Aquaphobia,6,3,16,2
-17,1:34.10,9410,Well Developed,3,2,5,0
-18,1:34.12,9412,Air Vice Marshal,2,5,15,3
-19,1:34.56,9456,Beach View,2,1,7,1
-20,1:34.71,9471,River Echo,3,4,17,1
-21,1:34.75,9475,Play Hard to Get,4,3,29,0
-22,1:35.06,9506,Cafe Flavor,2,0,11,4
-23,1:35.30,9530,Unapologetic,3,4,21,2
-24,1:35.48,9548,Touched by Autism,4,3,21,3
+Horse Name,Final_Time,Final_Time_Hund,Gender,Firsts,Seconds,Starts,Thirds
+Blame the Rider,1:35.11,9511,0,0,0,5,1
+Majestic Eagle,1:35.25,9525,0,0,2,4,0
+Sellwood,1:35.39,9539,0,0,1,2,1
+Cajun Treasure,1:35.39,9539,0,0,0,0,0
+Friendly Outthedor,1:35.69,9569,0,0,1,4,0
+Pointed,1:35.79,9579,0,0,0,5,0
+Dignitaire,1:36.25,9625,0,0,0,3,1
+Papa Joe,1:36.71,9671,0,0,0,1,0
+Tule Fog,1:34.19,9419,0,1,1,6,1
+Lymebyrd,1:34.83,9483,0,2,3,15,1
+Kings River King,1:35.46,9546,0,1,0,6,2
+California Journey,1:35.46,9546,0,1,0,2,0
+Raven Creek,1:35.54,9554,0,1,4,8,2
+Fast as Cass,1:36.17,9617,0,1,1,4,0
+Croissant,1:36.50,9650,0,1,0,6,0
+Lord Admiral,1:39.73,9973,0,1,1,8,0
+Aquaphobia,1:33.86,9386,0,5,3,15,2
+Well Developed,1:34.10,9410,0,3,1,4,0
+Air Vice Marshal,1:34.12,9412,0,2,5,14,2
+Beach View,1:34.56,9456,0,2,1,6,1
+River Echo,1:34.71,9471,0,3,4,16,1
+Play Hard to Get,1:34.75,9475,0,4,3,28,0
+Cafe Flavor,1:35.06,9506,0,2,0,10,4
+Unapologetic,1:35.30,9530,0,3,4,20,2
+Touched by Autism,1:35.48,9548,0,4,3,20,3

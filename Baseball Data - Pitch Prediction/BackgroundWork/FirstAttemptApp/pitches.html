@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Pitch Predictor</title>  <!-- Our title! -->
+    <link rel="stylesheet" href="slider/d3.slider.css" />
+    <!-- rel = "stylesheet" is always, href = "" static/ is the folder it lives in
+  body {} is all CSS -->
+  <style>
+   body {
+     font-family: Verdana,Arial,sans-serif;
+   }
+   h2 {
+     font-size: 1.2em;
+     margin: 60px 0 5px 0;
+     color: gray
+   }
+   .space {
+     margin-bottom: 20 px;
+   }
+   .wrapper {
+     width: 800px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 0px;
+   }
+   #bar_chart {
+     margin-bottom: 0 px;
+   }
+   .bar {
+     fill: #5656ff;
+   }
+   span {
+     color: steelblue;
+   }
+  </style>
+
+
+    </head>
+  <body>
+
+
+    <body>
+
+
+      <div id="prediction_result" class="wrapper"> <!-- ask lib, what is a wrapper? -->
+        <h2>Probability that ball will not be put in play</h2> <!-- Header for top result thingy -->
+        <p class="space"></p>
+        <div id="bar_chart">
+        </div>
+      </div>
+
+
+      <div id="predict_buttons" class="wrapper">
+
+        <h2 class="feature">Batter: <span id="player">Pick your batter</span></h2> <!-- Feature, what each features corresponds to, and default start -->
+        <div id="batter_button"></div>
+
+        <h2 class="feature">Pitch Type: <span id="pitch_type">Pick the pitch thrown</span></h2>
+        <div id="pitch_button"></div>
+
+        <h2 class="feature">Pitch Zone: <span id="zone">Pick where it's going</span></h2>
+        <div id="zone_button"></div>
+
+      </div>
+
+
+      <!-- Import the libraries: jQuery, d3, d3.slider, this is still html. I don't think I'll need silder...-->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script src="http://d3js.org/d3.v3.min.js"></script>
+      <script src="slider/d3.slider.js"></script>
+
+
+    <script>
+
+    // Setting up the current conditions of my app... this is Javascript
+
+      var current_player = hitter.last_name_Bader;
+      var current_pitch = Changeup;
+      var current_zone = 1;
+      var current_proba = 50.0;
+
+      //I believe this is setting up the percent proba bar...
+
+      var chart = d3.select("#bar_chart")
+                    .append("svg:svg")
+                    .attr("width", 800)
+                    .attr("height", 100);
+                    <!-- //Changing the width and heigh of the bar chart.-->
+
+      var chance_scale = d3.scale.linear()
+                                 .domain([0, 100])
+                                 .range([0, 800]);
+                                 <!-- //range is pixels, domain is percentate of pixels.-->
+
+      var bar = chart.append("g")
+                     .attr("class", "bar")
+
+        bar.append("svg:rect")
+           .attr("id", "chancebar")
+           .attr("class", "bar")
+           .attr("width", chance_scale(current_proba))
+           .attr("height", 50);
+
+      bar.append("text")
+         .attr("id", "percent_text")
+         .attr("dy", ".75em")
+         .attr("y", 15)
+         .attr("x", chance_scale(current_proba-5))
+         .attr("text-anchor", "middle")
+         .attr("fill", "white")
+         .attr("font-size", 20)
+         .text( current_proba.toFixed(1) + "%");
+
+
+         <!-- FUNCTION TO GET CHANCE FROM YOUR PREDICTOR WITH AJAX AND CHANGE BAR  HEIGHT -->
+      function getAndDrawChance(player, pitch_type, zone){
+           $.ajax({
+             type: "POST",
+             contentType: "application/json; charset=utf-8",
+             url: "/score",
+             dataType: "json",
+             async: true,
+             data: "{\"example\": ["+player+","+pitch_type+","+zone+"]}",
+             success: function (data) {
+               var chance = 100 * data["score"];
+               d3.select("#chancebar")
+                 .attr("width", chance_scale(chance));
+               d3.select("#percent_text")
+                 .attr("x", chance_scale(chance-5))
+                 .text(chance.toFixed(1) + "%");
+             },
+             error: function (result) {
+             }
+           })
+         }
+
+         <!-- BUTTONS -->
+
+
+    </script>
+  </body>
+</html>

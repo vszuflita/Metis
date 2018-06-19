@@ -1,0 +1,805 @@
+,Type of race,State,FIPS Code,State code,PVI,Incumbent/ Incumbent Party Candidate,Incombant Gun Control Stance (Voted For),Incombant Gun Control Stance (Voted Against),Opponant,Opponant Gun Control Stance,Most recent result,Cook,IE,Sabato,NYT,CNN,RCP,Predict_avg,Predict_ave_st,Vote for Good,Vote for Bad,Good vote percentage
+0,Senator,Arizona,,4,R+5,TBA,TBA,,,,49% R,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,0,0,
+1,Senator,California,,6,D+12,Dianne Feinstein (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+GUN SHOW LOOPHOLE
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,  ,,63% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,8,0,100.0
+2,Senator,Connecticut,,9,D+6,Chris Murphy (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,55% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,5,0,100.0
+3,Senator,Delaware,,10,D+6,Tom Carper (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,,66% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,6,0,100.0
+4,Senator,Florida,,12,R+2,Bill Nelson (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",PLCAA ,,,55% D,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,5,1,83.0
+5,Senator,Hawaii,,15,D+18,Mazie Hirono (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,63% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,5,0,100.0
+6,Senator,Indiana,,18,R+9,Joe Donnelly (D),"FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+","MENTAL HEALTH 
+
+CONCEALED-CARRY RECIPROCITY
+",,,50% D,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,3,2,60.0
+7,Senator,Maine,,23,D+3,Angus King (I),"FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+","MENTAL HEALTH 
+",,,53% I,6.0,6.0,6.0,Safe D/I,,6.0,6.0,3,4,1,80.0
+8,Senator,Maryland,,24,D+12,Ben Cardin (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,,,55% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,8,0,100.0
+9,Senator,Massachusetts,,25,D+12,Elizabeth Warren (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,54% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,5,0,100.0
+10,Senator,Michigan,,26,D+1,Debbie Stabenow (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,,59% D,5.0,6.0,5.0,Likely D,5.0,5.0,5.2,3,6,0,100.0
+11,Senator,Minnesota,,27,D+1,Amy Klobuchar (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,65% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,5,0,100.0
+12,Senator,"Minnesota
+(Special)",,27,D+1,Tina Smith (D),,,,,53% D,4.0,5.0,5.0,Likely D,5.0,5.0,4.8,3,0,0,
+13,Senator,Mississippi,,28,R+9,Roger Wicker (R),,"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,57% R,0.0,0.0,0.0,Safe R,0.0,0.0,0.0,1,0,6,0.0
+14,Senator,"Mississippi
+(Special)",,28,R+9,Cindy Hyde-Smith (R),,,,,60% R,1.0,0.0,1.0,Likely R,0.0,1.0,0.6,1,0,0,
+15,Senator,Missouri,,29,R+9,Claire McCaskill (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,55% D,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,5,0,100.0
+16,Senator,Montana,,30,R+11,Jon Tester (D),"FEINSTEIN ""TERROR GAP""
+
+MANCHIN
+","MENTAL HEALTH 
+
+MURPHY BACKGROUND CHECKS
+
+CONCEALED-CARRY RECIPROCITY
+",,,49% D,5.0,,4.0,Lean D,4.0,4.0,4.25,3,2,3,40.0
+17,Senator,Nebraska,,31,R+14,Deb Fischer (R),,"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,56% R,1.0,0.0,0.0,Safe R,0.0,0.0,0.2,1,0,5,0.0
+18,Senator,Nevada,,32,D+1,Dean Heller (R),,"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,46% R,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,0,5,0.0
+19,Senator,New Jersey,,34,D+7,Bob Menendez (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,,,59% D,5.0,6.0,5.0,Likely D,6.0,5.0,5.4,3,8,0,100.0
+20,Senator,New Mexico,,35,D+3,Martin Heinrich (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+","CONCEALED-CARRY RECIPROCITY 
+",,,51% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,4,1,80.0
+21,Senator,New York,,36,D+11,Kirsten Gillibrand (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,72% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,5,0,100.0
+22,Senator,North Dakota,,38,R+16,Heidi Heitkamp (D),,"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,50% D,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,0,5,0.0
+23,Senator,Ohio,,39,R+3,Sherrod Brown (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,,,51% D,4.0,4.0,4.0,Lean D,4.0,4.0,4.0,2,8,0,100.0
+24,Senator,Pennsylvania,,42,EVEN,Bob Casey Jr. (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,,54% D,5.0,5.0,5.0,Likely D,5.0,5.0,5.0,3,6,0,100.0
+25,Senator,Rhode Island,,44,D+10,Sheldon Whitehouse (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,,64% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,5,0,100.0
+26,Senator,Tennessee,,47,R+14,TBA,TBA,,,,65% R,3.0,2.0,2.0,Lean R,2.0,3.0,2.4,2,0,0,
+27,Senator,Texas,,48,R+8,Ted Cruz (R),,"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",Beto O'Rourke (D),,57% R,1.0,1.0,1.0,Likely R,1.0,2.0,1.2,1,0,5,0.0
+28,Senator,Utah,,49,R+20,TBA,TBA,,,,65% R,0.0,0.0,0.0,Safe R,0.0,0.0,0.0,1,0,0,
+29,Senator,Vermont,,50,D+15,Bernie Sanders (I),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+ASSAULT WEAPONS BAN
+","PLCAA 
+
+BRADY BILL
+",,,71% I,6.0,6.0,6.0,Safe D/I,6.0,6.0,6.0,3,6,2,75.0
+30,Senator,Virginia,,51,D+1,Tim Kaine (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,,53% D,6.0,6.0,6.0,Safe D,5.0,5.0,5.6,3,6,0,100.0
+31,Senator,Washington,,53,D+7,Maria Cantwell (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,,,61% D,6.0,6.0,6.0,Safe D,6.0,6.0,6.0,3,8,0,100.0
+32,Senator,West Virginia,,54,R+20,Joe Manchin (D),"FEINSTEIN ""TERROR GAP""
+
+MANCHIN
+","MENTAL HEALTH
+
+MURPHY BACKGROUND CHECKS
+
+CONCEALED-CARRY RECIPROCITY
+",,,61% D,3.0,3.0,3.0,Tossup,3.0,3.0,3.0,2,2,3,40.0
+33,Senator,Wisconsin,,55,EVEN,Tammy Baldwin (D),"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,,51% D,5.0,,4.0,Lean D,4.0,5.0,4.5,3,6,0,100.0
+34,Senator,Wyoming,,56,R+25,John Barrasso (R),,"MENTAL HEALTH
+
+FEINSTEIN ""TERROR GAP""
+
+MURPHY BACKGROUND CHECKS
+
+MANCHIN
+
+CONCEALED-CARRY RECIPROCITY
+",,,76% R,0.0,0.0,0.0,Safe R,0.0,0.0,0.0,1,0,5,0.0
+35,House of Representatives,Arizona 1,0401,4,R+2,Tom O'Halleran (D),"CONCEALED-CARRY RECIPROCITY
+",,,,50.7% D,4.0,,5.0,,4.0,4.0,4.25,3,1,0,100.0
+36,House of Representatives,Arizona 2,0402,4,R+1,TBA,TBA,,,,57.0% R,4.0,,4.0,,4.0,4.0,4.0,2,0,0,
+37,House of Representatives,Arizona 6,0406,4,R+9,David Schweikert (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,62.1% R,1.0,0.0,1.0,,1.0,0.0,0.6,1,0,3,0.0
+38,House of Representatives,Arizona 8,0408,4,R+13,Debbie Lesko (R),,,,,52.6% R,0.0,1.0,0.0,,1.0,1.0,0.6,1,0,0,
+39,House of Representatives,Arizona 9,0409,4,D+4,TBA,TBA,,,,60.9% D,5.0,6.0,5.0,,5.0,5.0,5.2,3,0,0,
+40,House of Representatives,Arkansas 2,0502,5,R+7,French Hill (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,58.4% R,2.0,1.0,1.0,,2.0,1.0,1.4,1,0,2,0.0
+41,House of Representatives,California 4,0604,6,R+10,Tom McClintock (R),,,,,62.7% R,1.0,1.0,1.0,,1.0,0.0,0.8,1,0,0,
+42,House of Representatives,California 7,0607,6,D+3,Ami Bera (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,51.2% D,5.0,6.0,5.0,,5.0,4.0,5.0,3,2,0,100.0
+43,House of Representatives,California 10,0610,6,EVEN,Jeff Denham (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,51.7% R,3.0,,3.0,,2.0,3.0,2.75,2,0,3,0.0
+44,House of Representatives,California 21,0621,6,D+5,David Valadao (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,56.7% R,2.0,1.0,1.0,,1.0,1.0,1.2,1,0,2,0.0
+45,House of Representatives,California 22,0622,6,R+8,Devin Nunes (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,67.6% R,0.0,0.0,1.0,,0.0,0.0,0.2,1,0,4,0.0
+46,House of Representatives,California 24,0624,6,D+7,Salud Carbajal (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,53.4% D,6.0,6.0,5.0,,6.0,5.0,5.6,3,2,0,100.0
+47,House of Representatives,California 25,0625,6,EVEN,Steve Knight (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,53.1% R,3.0,,3.0,,3.0,3.0,3.0,2,0,2,0.0
+48,House of Representatives,California 39,0639,6,EVEN,TBA,TBA,,,,57.2% R,3.0,3.0,3.0,,4.0,3.0,3.2,2,0,0,
+49,House of Representatives,California 45,0645,6,R+3,Mimi Walters (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,58.6% R,2.0,2.0,2.0,,2.0,3.0,2.2,2,0,2,0.0
+50,House of Representatives,California 48,0648,6,R+4,Dana Rohrabacher (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+GUN SHOW LOOPHOLE
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,,58.3% R,3.0,,3.0,,3.0,3.0,3.0,2,0,7,0.0
+51,House of Representatives,California 49,0649,6,R+1,TBA,TBA,,,,50.3% R,4.0,3.0,4.0,,4.0,3.0,3.6,2,0,0,
+52,House of Representatives,California 50,0650,6,R+11,Duncan D. Hunter (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,63.5% R,1.0,1.0,0.0,,1.0,1.0,0.8,1,0,3,0.0
+53,House of Representatives,Colorado 3,0803,8,R+6,Scott Tipton (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,54.6% R,0.0,0.0,1.0,,0.0,0.0,0.2,1,0,3,0.0
+54,House of Representatives,Colorado 6,0806,8,D+2,Mike Coffman (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,50.9% R,3.0,,3.0,,3.0,3.0,3.0,2,0,3,0.0
+55,House of Representatives,Connecticut 5,0905,9,D+2,TBA,TBA,,,,58.0% D,5.0,6.0,5.0,,6.0,6.0,5.6,3,0,0,
+56,House of Representatives,Florida 6,1206,12,R+7,TBA,TBA,,,,58.6% R,0.0,0.0,1.0,,1.0,0.0,0.4,1,0,0,
+57,House of Representatives,Florida 7,1207,12,EVEN,Stephanie Murphy (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,51.5% D,5.0,4.0,5.0,,5.0,4.0,4.6,3,2,0,100.0
+58,House of Representatives,Florida 13,1213,12,D+2,Charlie Crist (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,51.9% D,6.0,6.0,5.0,,5.0,5.0,5.4,3,2,0,100.0
+59,House of Representatives,Florida 15,1215,12,R+6,TBA,TBA,,,,59.8% R,1.0,0.0,1.0,,1.0,0.0,0.6,1,0,0,
+60,House of Representatives,Florida 16,1216,12,R+7,Vern Buchanan (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,59.8% R,1.0,0.0,1.0,,1.0,2.0,1.0,1,0,3,0.0
+61,House of Representatives,Florida 18,1218,12,R+5,Brian Mast (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,53.6% R,2.0,0.0,1.0,,1.0,1.0,1.0,1,0,2,0.0
+62,House of Representatives,Florida 25,1225,12,R+4,Mario Diaz-Balart (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,62.4% R,1.0,0.0,1.0,,0.0,1.0,0.6,1,0,4,0.0
+63,House of Representatives,Florida 26,1226,12,D+6,Carlos Curbelo (R),"CONCEALED-CARRY RECIPROCITY
+","MENTAL HEALTH
+",,,53.0% R,3.0,,3.0,,3.0,3.0,3.0,2,1,1,50.0
+64,House of Representatives,Florida 27,1227,12,D+5,TBA,TBA,,,,54.9% R,4.0,4.0,4.0,,4.0,4.0,4.0,2,0,0,
+65,House of Representatives,Georgia 6,1306,13,R+8,Karen Handel (R),,"CONCEALED-CARRY RECIPROCITY
+",,,51.9% R,2.0,1.0,2.0,,1.0,2.0,1.6,1,0,1,0.0
+66,House of Representatives,Georgia 7,1307,13,R+9,Rob Woodall (R),"CONCEALED-CARRY RECIPROCITY 
+","CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,60.4% R,1.0,1.0,1.0,,1.0,1.0,1.0,1,1,2,33.0
+67,House of Representatives,Illinois 6,1706,17,R+2,Peter Roskam (R),"CONCEALED-CARRY RECIPROCITY
+","MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,59.2% R,3.0,,2.0,,2.0,3.0,2.5,2,1,2,33.0
+68,House of Representatives,Illinois 12,1712,17,R+5,Mike Bost (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,54.3% R,3.0,2.0,3.0,,3.0,3.0,2.8,2,0,2,0.0
+69,House of Representatives,Illinois 13,1713,17,R+3,Rodney Davis (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,59.7% R,1.0,1.0,1.0,,1.0,1.0,1.0,1,0,2,0.0
+70,House of Representatives,Illinois 14,1714,17,R+5,Randy Hultgren (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,59.3% R,2.0,0.0,1.0,,2.0,1.0,1.2,1,0,3,0.0
+71,House of Representatives,Indiana 2,1802,18,R+11,Jackie Walorski (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,59.3% R,1.0,1.0,0.0,,1.0,0.0,0.6,1,0,2,0.0
+72,House of Representatives,Indiana 9,1809,18,R+13,Trey Hollingsworth (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,54.1% R,0.0,0.0,0.0,,1.0,0.0,0.2,1,0,2,0.0
+73,House of Representatives,Iowa 1,1901,19,D+1,Rod Blum (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,53.7% R,3.0,3.0,3.0,,3.0,3.0,3.0,2,0,2,0.0
+74,House of Representatives,Iowa 2,1902,19,D+1,Dave Loebsack (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,,53.7% D,6.0,6.0,6.0,,6.0,5.0,5.8,3,3,0,100.0
+75,House of Representatives,Iowa 3,1903,19,R+1,David Young (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,53.5% R,2.0,1.0,2.0,,2.0,2.0,1.8,1,0,2,0.0
+76,House of Representatives,Kansas 2,2002,20,R+10,TBA,TBA,,,,60.9% R,2.0,2.0,3.0,,2.0,3.0,2.4,2,0,0,
+77,House of Representatives,Kansas 3,2003,20,R+4,Kevin Yoder (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,51.3% R,2.0,2.0,2.0,,2.0,3.0,2.2,2,0,3,0.0
+78,House of Representatives,Kentucky 6,2106,21,R+9,Andy Barr (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,61.1% R,2.0,2.0,2.0,,2.0,2.0,2.0,2,0,2,0.0
+79,House of Representatives,Maine 2,23-2,23,R+2,Bruce Poliquin (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,54.8% R,2.0,2.0,2.0,,2.0,2.0,2.0,2,0,2,0.0
+80,House of Representatives,Michigan 1,2601,26,R+9,Jack Bergman (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,55.3% R,1.0,0.0,1.0,,1.0,0.0,0.6,1,0,2,0.0
+81,House of Representatives,Michigan 6,2606,26,R+4,Fred Upton (R),"GUN SHOW LOOPHOLE
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+","CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,58.7% R,1.0,1.0,1.0,,1.0,0.0,0.8,1,3,4,43.0
+82,House of Representatives,Michigan 7,2607,26,R+7,Tim Walberg (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,55.1% R,1.0,1.0,1.0,,1.0,2.0,1.2,1,0,3,0.0
+83,House of Representatives,Michigan 8,2608,26,R+4,Mike Bishop (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,56.0% R,2.0,2.0,2.0,,3.0,1.0,2.0,2,0,2,0.0
+84,House of Representatives,Michigan 11,2611,26,R+4,TBA,TBA,,,,52.9% R,3.0,3.0,3.0,,4.0,3.0,3.2,2,0,0,
+85,House of Representatives,Minnesota 1,2701,27,R+5,TBA,TBA,,,,50.3% D,3.0,3.0,3.0,,3.0,3.0,3.0,2,0,0,
+86,House of Representatives,Minnesota 2,2702,27,R+2,Jason Lewis (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,47.0% R,3.0,3.0,3.0,,3.0,3.0,3.0,2,0,2,0.0
+87,House of Representatives,Minnesota 3,2703,27,D+1,Erik Paulsen (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,56.7% R,3.0,2.0,3.0,,3.0,3.0,2.8,2,0,3,0.0
+88,House of Representatives,Minnesota 7,2707,27,R+12,Collin Peterson (D),,"CONCEALED-CARRY RECIPROCITY
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+GUN SHOW LOOPHOLE
+
+ASSAULT WEAPONS BAN
+
+BRADY BILL
+",,,52.5% D,5.0,5.0,5.0,,5.0,4.0,4.8,3,0,6,0.0
+89,House of Representatives,Minnesota 8,2708,27,R+4,TBA,TBA,,,,50.2% D,3.0,3.0,3.0,,3.0,3.0,3.0,2,0,0,
+90,House of Representatives,Missouri 2,2902,29,R+8,Ann Wagner (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,58.5% R,1.0,0.0,1.0,,0.0,0.0,0.4,1,0,2,0.0
+91,House of Representatives,Montana at-large,3000,30,R+11,Greg Gianforte (R),,"CONCEALED-CARRY RECIPROCITY
+",,,49.7% R,1.0,1.0,2.0,,1.0,2.0,1.4,1,0,1,0.0
+92,House of Representatives,Nebraska 2,3102,31,R+4,Don Bacon (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,48.9% R,2.0,,2.0,,3.0,2.0,2.25,2,0,2,0.0
+93,House of Representatives,Nevada 3,3203,32,R+2,TBA,TBA,,,,47.2% D,4.0,,4.0,,4.0,3.0,3.75,2,0,0,
+94,House of Representatives,Nevada 4,3204,32,D+3,TBA,TBA,,,,48.5% D,5.0,5.0,4.0,,4.0,4.0,4.4,3,0,0,
+95,House of Representatives,New Hampshire 1,3301,33,R+2,TBA,TBA,,,,44.3% D,4.0,,4.0,,4.0,3.0,3.75,2,0,0,
+96,House of Representatives,New Hampshire 2,3302,33,D+2,Ann McLane Kuster (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,49.8% D,5.0,6.0,6.0,,5.0,5.0,5.4,3,2,0,100.0
+97,House of Representatives,New Jersey 2,3402,34,R+1,TBA,TBA,,,,59.2% R,4.0,,4.0,,4.0,4.0,4.0,2,0,0,
+98,House of Representatives,New Jersey 3,3403,34,R+2,Tom MacArthur (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,59.3% R,2.0,1.0,1.0,,2.0,0.0,1.2,1,0,2,0.0
+99,House of Representatives,New Jersey 5,3405,34,R+3,Josh Gottheimer (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,51.1% D,5.0,4.0,5.0,,5.0,4.0,4.6,3,2,0,100.0
+100,House of Representatives,New Jersey 7,3407,34,R+3,Leonard Lance (R),"CONCEALED-CARRY RECIPROCITY
+","MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,54.1% R,3.0,,3.0,,3.0,3.0,3.0,2,1,2,33.0
+101,House of Representatives,New Jersey 11,3411,34,R+3,TBA,TBA,,,,58.0% R,3.0,,3.0,,3.0,3.0,3.0,2,0,0,
+102,House of Representatives,New Mexico 2,3502,35,R+6,TBA,TBA,,,,62.7% R,2.0,2.0,1.0,,2.0,2.0,1.8,1,0,0,
+103,House of Representatives,New York 1,3601,36,R+5,Lee Zeldin (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,58.2% R,1.0,0.0,2.0,,1.0,2.0,1.2,1,0,2,0.0
+104,House of Representatives,New York 11,3611,36,R+3,Dan Donovan (R),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,61.5% R,2.0,1.0,2.0,,2.0,2.0,1.8,1,2,0,100.0
+105,House of Representatives,New York 18,3618,36,R+1,Sean Patrick Maloney (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,55.6% D,6.0,6.0,5.0,,6.0,5.0,5.6,3,2,0,100.0
+106,House of Representatives,New York 19,3619,36,R+2,John Faso (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,54.0% R,3.0,,3.0,,3.0,3.0,3.0,2,0,2,0.0
+107,House of Representatives,New York 22,3622,36,R+6,Claudia Tenney (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,46.5% R,3.0,,3.0,,3.0,3.0,3.0,2,0,2,0.0
+108,House of Representatives,New York 23,3623,36,R+6,Tom Reed (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,57.6% R,0.0,0.0,1.0,,0.0,0.0,0.2,1,0,3,0.0
+109,House of Representatives,New York 24,3624,36,D+3,John Katko (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,60.5% R,1.0,1.0,1.0,,1.0,1.0,1.0,1,0,3,0.0
+110,House of Representatives,North Carolina 2,3702,37,R+7,George Holding (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,56.7% R,1.0,0.0,1.0,,1.0,0.0,0.6,1,0,2,0.0
+111,House of Representatives,North Carolina 8,3708,37,R+8,Richard Hudson (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,58.8% R,1.0,0.0,1.0,,0.0,0.0,0.4,1,0,2,0.0
+112,House of Representatives,North Carolina 9,3709,37,R+8,TBA,TBA,,,,58.2% R,2.0,,3.0,,3.0,1.0,2.25,2,0,0,
+113,House of Representatives,North Carolina 13,3713,37,R+6,Ted Budd (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,56.1% R,2.0,1.0,2.0,,2.0,1.0,1.6,1,0,2,0.0
+114,House of Representatives,Ohio 1,3901,39,R+5,Steve Chabot (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+GUN SHOW LOOPHOLE
+",,,59.2% R,2.0,1.0,2.0,,2.0,2.0,1.8,1,0,5,0.0
+115,House of Representatives,Ohio 7,3907,39,R+12,Bob Gibbs (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,64.0% R,0.0,0.0,1.0,,1.0,0.0,0.4,1,0,3,0.0
+116,House of Representatives,Ohio 10,3910,39,R+4,Mike Turner (R),"CONCEALED-CARRY RECIPROCITY
+
+","CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+PLCAA
+",,,64.1% R,1.0,0.0,1.0,,0.0,0.0,0.4,1,1,3,25.0
+117,House of Representatives,Ohio 12,3912,39,R+7,TBA,TBA,,,,66.6% R,3.0,,2.0,,2.0,2.0,2.25,2,0,0,
+118,House of Representatives,Ohio 14,3914,39,R+5,David Joyce (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,62.6% R,1.0,1.0,1.0,,1.0,0.0,0.8,1,0,2,0.0
+119,House of Representatives,Ohio 15,3915,39,R+7,Steve Stivers (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,66.2% R,1.0,0.0,1.0,,0.0,0.0,0.4,1,0,3,0.0
+120,House of Representatives,Oklahoma 5,4005,40,R+10,Steve Russell (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,57.1% R,0.0,0.0,1.0,,0.0,0.0,0.2,1,0,2,0.0
+121,House of Representatives,Pennsylvania 1,4201,42,R+1,Brian Fitzpatrick (R),"CONCEALED-CARRY RECIPROCITY
+","MENTAL HEALTH
+",,,(New district),3.0,,3.0,,3.0,3.0,3.0,2,1,1,50.0
+122,House of Representatives,Pennsylvania 5,4205,42,D+13,TBA,TBA,,,,(New district),5.0,5.0,,,5.0,5.0,5.0,3,0,0,
+123,House of Representatives,Pennsylvania 6,4206,42,D+2,Ryan Costello (R) (Retiring),Not Running,,,,(New district),5.0,5.0,5.0,,5.0,5.0,5.0,3,0,0,
+124,House of Representatives,Pennsylvania 7,4207,42,D+1,TBA,TBA,,,,(New district),4.0,,3.0,,4.0,3.0,3.5,2,0,0,
+125,House of Representatives,Pennsylvania 8,4208,42,R+1,Matt Cartwright (D),"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,(New district),5.0,5.0,5.0,,5.0,5.0,5.0,3,2,0,100.0
+126,House of Representatives,Pennsylvania 10,4210,42,R+6,Scott Perry (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,(New district),1.0,1.0,1.0,,1.0,2.0,1.2,1,0,2,0.0
+127,House of Representatives,Pennsylvania 14,4214,42,R+14,Open seat[c],Not Running,,,,(New district),1.0,,,,,1.0,1.0,1,0,0,
+128,House of Representatives,Pennsylvania 16,4216,42,R+8,Mike Kelly (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,(New district),1.0,0.0,0.0,,0.0,1.0,0.4,1,0,2,0.0
+129,House of Representatives,Pennsylvania 17,4217,42,R+3,Keith Rothfus (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,,,,,,,,,2,0,2,0.0
+130,House of Representatives,Pennsylvania 17,4217,42,R+3,Conor Lamb (D), ,,,,,,,,,,,,2,0,0,
+131,House of Representatives,South Carolina 1,4501,45,R+10,Mark Sanford (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,58.6% R,1.0,0.0,0.0,,0.0,0.0,0.2,1,0,2,0.0
+132,House of Representatives,Texas 7,4807,48,R+7,John Culberson (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",Lizzie Pannill Fletcher OR Laura Moser (D),,56.2% R,3.0,,2.0,,2.0,3.0,2.5,2,0,4,0.0
+133,House of Representatives,Texas 21,4821,48,R+10,Chip Roy OR Matt McCall (R),Not Running,,Mary Wilson OR Joseph Kopser (D),,57.0% R,1.0,1.0,1.0,,1.0,1.0,1.0,1,0,0,
+134,House of Representatives,Texas 23,4823,48,R+1,Will Hurd (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",Gina Ortez Jones OR Rick Trevino (D),,48.3% R,2.0,3.0,3.0,,3.0,3.0,2.8,2,0,2,0.0
+135,House of Representatives,Texas 32,4832,48,R+5,Pete Sessions (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+GUN SHOW LOOPHOLE
+",Colin Allred OR Lillian Salerno (D),,71.1% R,2.0,1.0,2.0,,2.0,3.0,2.0,2,0,5,0.0
+136,House of Representatives,Utah 4,4904,49,R+13,Mia Love (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,53.8% R,2.0,2.0,2.0,,2.0,3.0,2.2,2,0,2,0.0
+137,House of Representatives,Virginia 2,5102,51,R+3,Scott Taylor (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,61.3% R,2.0,1.0,2.0,,2.0,2.0,1.8,1,0,2,0.0
+138,House of Representatives,Virginia 5,5105,51,R+6,TBA,TBA,,,,58.2% R,2.0,1.0,2.0,,1.0,0.0,1.2,1,0,0,
+139,House of Representatives,Virginia 7,5107,51,R+6,Dave Brat (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+""",,,57.5% R,2.0,2.0,2.0,,2.0,2.0,2.0,2,0,2,0.0
+140,House of Representatives,Virginia 10,5110,51,D+1,Barbara Comstock (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+""",,,52.7% R,3.0,3.0,3.0,,3.0,3.0,3.0,2,0,2,0.0
+141,House of Representatives,Washington 3,5303,53,R+4,Jaime Herrera Beutler (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,61.8% R,1.0,0.0,0.0,,0.0,0.0,0.2,1,0,3,0.0
+142,House of Representatives,Washington 5,5305,53,R+8,Cathy McMorris Rodgers (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+",,,59.6% R,2.0,1.0,2.0,,2.0,1.0,1.6,1,0,4,0.0
+143,House of Representatives,Washington 8,5308,53,EVEN,TBA,TBA,,,,60.2% R,3.0,3.0,3.0,,3.0,3.0,3.0,2,0,0,
+144,House of Representatives,West Virginia 3,5403,54,R+23,TBA,TBA,,,,67.9% R,1.0,1.0,1.0,,1.0,1.0,1.0,1,0,0,
+145,House of Representatives,Wisconsin 1,5501,55,R+5,TBA,TBA,,,,64.9% R,2.0,2.0,3.0,,2.0,3.0,2.4,2,0,0,
+146,House of Representatives,Wisconsin 3,5503,55,EVEN,Ron Kind (D),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+
+PLCAA
+
+GUN SHOW LOOPHOLE
+",,,98.9% D,6.0,6.0,6.0,,5.0,5.0,5.6,3,0,5,0.0
+147,House of Representatives,Wisconsin 6,5506,55,R+8,Glenn Grothman (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+",,,57.2% R,1.0,0.0,1.0,,2.0,0.0,0.8,1,0,2,0.0
+148,House of Representatives,Wisconsin 7,5507,55,R+8,Sean Duffy (R),,"CONCEALED-CARRY RECIPROCITY
+
+MENTAL HEALTH
+
+CONCEALED-CARRY RECIPROCITY
+",,,61.7% R,0.0,0.0,0.0,,1.0,0.0,0.2,1,0,3,0.0

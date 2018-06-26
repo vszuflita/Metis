@@ -1,4 +1,4 @@
-﻿STATE,DISTRICT,(I),CANDIDATE NAME,TOTAL VOTES,PARTY,PRIMARY VOTES,GENERAL VOTES
+﻿STATE,DISTRICT,(I),CANDIDATE NAME,TOTAL VOTES,PARTY,PRIMARY VOTES,GENERAL  VOTES
 Alabama,S,(I),"Sessions, Jeff",,R,199690,1305383
 Alabama,S,,"Gavin, Earl Mack",,R,16718,
 Alabama,S,,,Party Votes:,R,216408,
@@ -27,7 +27,7 @@ Alaska,S,,,Party Votes:,LBT,1375,
 Alaska,S,,"Gianoutsos, Ted",,NNE,n/a,1385
 Alaska,S,,Scattered,,W,,1077
 Alaska,S,,,Total Senate Votes:,,181109,317723
-Arkansas,S,(I),"Pryor, Mark",,D,n/a,804678
+Arkansas,S,(I),"Pryor, Mark",,D,Unopposed,804678
 Arkansas,S,,"Kennedy, Rebekah",,GRE,n/a,207076
 Arkansas,S,,,Total Senate Votes:,,,1011754
 Colorado,S,,"Udall, Mark",,D,194227,1231049
@@ -40,8 +40,8 @@ Colorado,S,,"Moore, Buddy",,W,n/a,116
 Colorado,S,,"Cooper, Gary",,W,n/a,10
 Colorado,S,,"Lohmiller, Bruce E.",,W,n/a,9
 Colorado,S,,,Total Senate Votes:,,433439,2331712
-Delaware,S,(I),"Biden, Joseph R., Jr.",,D,n/a,257539
-Delaware,S,,"O'Donnell, Christine",,R,n/a,140595
+Delaware,S,(I),"Biden, Joseph R., Jr.",,D,Unopposed,257539
+Delaware,S,,"O'Donnell, Christine",,R,Unopposed,140595
 Delaware,S,,,Total Senate Votes:,,,398134
 Georgia,S,(I),"Chambliss, Saxby",,R,392902,1867097
 Georgia,S,,,Party Votes:,R,392902,
@@ -105,7 +105,7 @@ Kentucky,S,(I),"McConnell, Mitch",,R,168127,953816
 Kentucky,S,,"Essek, Daniel",,R,27170,
 Kentucky,S,,,Party Votes:,R,195297,
 Kentucky,S,,"Lunsford, Bruce",,D,316992,847005
-Kentucky,S,,"Horne, Andrew",,D,n/a,
+Kentucky,S,,"Horne, Andrew",,D,Withdrew,
 Kentucky,S,,"Fischer, Greg",,D,209827,
 Kentucky,S,,"Williams, David L.",,D,34363,
 Kentucky,S,,"Rice, James E.",,D,20403,
@@ -114,9 +114,9 @@ Kentucky,S,,"Stepp, Kenneth",,D,13451,
 Kentucky,S,,"Wylie, David Lee",,D,7528,
 Kentucky,S,,,Party Votes:,D,619904,
 Kentucky,S,,,Total Senate Votes:,,815201,1800821
-Louisiana,S,(I),"Landrieu, Mary",,D,n/a,988298
-Louisiana,S,,"Kennedy, John",,R,n/a,867177
-Louisiana,S,,"Fontanesi, Richard",,LBT,n/a,18590
+Louisiana,S,(I),"Landrieu, Mary",,D,Unopposed,988298
+Louisiana,S,,"Kennedy, John",,R,Unopposed,867177
+Louisiana,S,,"Fontanesi, Richard",,LBT,Unopposed,18590
 Louisiana,S,,"Patel, ""Jay""",,NPA,n/a,13729
 Louisiana,S,,"Stewart, Robert",,OTH,n/a,8780
 Louisiana,S,,,Total Senate Votes:,,n/a,1896574
@@ -146,11 +146,11 @@ Michigan,S,(I),"Levin, Carl",,D,561676,3038386
 Michigan,S,,,Party Votes:,D,561676,
 Michigan,S,,"Hoogendyk, Jack, Jr.",,R,495467,1641070
 Michigan,S,,,Party Votes:,R,495467,
-Michigan,S,,"Boman, Scotty",,LBT,n/a,76347
-Michigan,S,,"Mikkelson, Harley G.",,GRE,n/a,43440
-Michigan,S,,"America, Anthony",,GRE,n/a,
-Michigan,S,,"Nikitin, Michael N.",,UST,n/a,30827
-Michigan,S,,"Dern, Doug",,NLP,n/a,18550
+Michigan,S,,"Boman, Scotty",,LBT,Winner,76347
+Michigan,S,,"Mikkelson, Harley G.",,GRE,Winner,43440
+Michigan,S,,"America, Anthony",,GRE,Loser,
+Michigan,S,,"Nikitin, Michael N.",,UST,Winner,30827
+Michigan,S,,"Dern, Doug",,NLP,Winner,18550
 Michigan,S,,,Total Senate Votes:,,1057143,4848620
 Minnesota,S,,"Franken, Al",,DFL,164136,1212629
 Minnesota,S,,"Faris, Priscilla Lord",,DFL,74655,
@@ -172,12 +172,12 @@ Minnesota,S,,"Stanton, Darryl",,IDP,618,
 Minnesota,S,,"Dahn, Bill",,IDP,440,
 Minnesota,S,,,Party Votes:,IDP,11341,
 Minnesota,S,,"Aldrich, Charles",,LBT,n/a,13923
-Minnesota,S,,"Niemackl, James",,CON,n/a,8907
+Minnesota,S,,"Niemackl, James",,CON,Unopposed,8907
 Minnesota,S,,Scattered,,W,,2340
 Minnesota,S,,"Cavlan, Michael",,W,,13
 Minnesota,S,,"Price, Anthony Keith",,W,,12
 Minnesota,S,,,Total Senate Votes:,,405975,2887646
-Mississippi,S - FULL TERM,(I),"Cochran, Thad",,R,n/a,766111
+Mississippi,S - FULL TERM,(I),"Cochran, Thad",,R,Unopposed,766111
 Mississippi,S - FULL TERM,,"Fleming, Erik R.",,D,236022,480915
 Mississippi,S - FULL TERM,,"O'Hara, Shawn",,D,122729,
 Mississippi,S - FULL TERM,,,Party Votes:,D,358751,
@@ -320,7 +320,7 @@ South Carolina,S,,"Cone, Michael",,D,73127,
 South Carolina,S,,,Party Votes:,D,147312,
 South Carolina,S,,Scattered,,W,,4276
 South Carolina,S,,,Total Senate Votes:,,428173,1871431
-South Dakota,S,(I),"Johnson, Tim",,D,n/a,237889
+South Dakota,S,(I),"Johnson, Tim",,D,Unopposed,237889
 South Dakota,S,,"Dykstra, Joel",,R,34598,142784
 South Dakota,S,,"Kephart, Sam",,R,13047,
 South Dakota,S,,"Gonyo, Charles Lyonel",,R,4983,
@@ -350,14 +350,14 @@ Texas,S,,"Kelly, Gene",,D,584966,
 Texas,S,,"McMurrey, Ray",,D,269402,
 Texas,S,,"Smith, Rhett R.",,D,212305,
 Texas,S,,,Party Votes:,D,2177252,
-Texas,S,,"Schick, Yvonne Adams",,LBT,n/a,185241
-Texas,S,,"Jameson, Scott",,LBT,n/a,
-Texas,S,,"Roland, Jon",,LBT,n/a,
+Texas,S,,"Schick, Yvonne Adams",,LBT,C,185241
+Texas,S,,"Jameson, Scott",,LBT,C,
+Texas,S,,"Roland, Jon",,LBT,C,
 Texas,S,,,Total Senate Votes:,,3401117,7912075
-Virginia,S,,"Warner, Mark R.",,D,n/a,2369327
-Virginia,S,,"Gilmore, Jim",,R,n/a,1228830
-Virginia,S,,"Marshall, Bob",,R,n/a,
-Virginia,S,,"Berry, Bob",,R,n/a,
+Virginia,S,,"Warner, Mark R.",,D,Unopposed,2369327
+Virginia,S,,"Gilmore, Jim",,R,Winner,1228830
+Virginia,S,,"Marshall, Bob",,R,Loser,
+Virginia,S,,"Berry, Bob",,R,Loser,
 Virginia,S,,"Parker, Glenda Gail",,IGR,n/a,21690
 Virginia,S,,"Redpath, William B.",,LBT,n/a,20269
 Virginia,S,,Scattered,,W,,3178
